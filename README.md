@@ -9,4 +9,4 @@ I am a first-year Master student at [Sichuan University](https://www.scu.edu.cn/
 
 :raised_hands: Please feel free to reach out to me at this [this email](liuxuyang@stu.scu.edu.cn), if you are interested in collaborating with me.
 
-
+:two_hearts: Please note, the profile picture depicts my lovely girlfriend **Xinying Lin**, with whom I affectionately share the squared term (**lxy<sup>2</sup>**) from our identical English initials.
