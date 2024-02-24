@@ -7,6 +7,6 @@ I am a first-year Master student at [Sichuan University](https://www.scu.edu.cn/
 * **Transfer Learning**: zero-shot learning (ZSL) and parameter-efficient transfer learning (PETL).
 * **Generative Models**: text-to-image generaction (Text2Image) and text-to-video generaction (Text2Video).
 
-:raised_hands: Feel free to contact me at [this email](liuxuyang@stu.scu.edu.cn), if you are interested in collaboration opportunities. 
+:raised_hands: If you are interested in collaborating with me, please feel free to reach out to me at this [this email](liuxuyang@stu.scu.edu.cn).
 
 
