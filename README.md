@@ -4,7 +4,7 @@ I am a first-year Master student at [Sichuan University](https://www.scu.edu.cn/
 
 :pushpin: My current research focus on:
 * **Vision-language Learning**: visual grounding (VG) and referring video object segmentation (RVOS).
-* **Transfer Learning**: zero-shot learning (ZSL) and parameter-efficient transfer learning (PETL).
+* **Transfer Learning**: [parameter-efficient transfer learning (PETL)](https://github.com/xuyang-liu16/Awesome-Parameter-Efficient-Transfer-Learning) and zero-shot learning (ZSL).
 * **Generative Models**: text-to-image generaction (Text2Image) and text-to-video generaction (Text2Video).
 
 :raised_hands: Please feel free to reach out to me at this [this email](liuxuyang@stu.scu.edu.cn), if you are interested in collaborating with me.
