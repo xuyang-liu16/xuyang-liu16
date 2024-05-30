@@ -9,8 +9,6 @@ I am currently a first-year Master's student at [Sichuan University](https://www
 * **Reconstruction**: [super-resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) and [image quality assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment).
 * **Generation**: customized & controllable [text-to-image generation](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies).
 
-Please feel free to reach out to me at [this email](mailto:liuxuyang@stu.scu.edu.cn), if you are interested in collaborating with me.
-
 :raised_hands: Please feel free to reach out to me at [this email](mailto:liuxuyang@stu.scu.edu.cn), if you are interested in collaborating with me.
 
 
