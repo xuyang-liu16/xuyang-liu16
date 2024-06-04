@@ -1,6 +1,6 @@
 ## Hi there, I'm [Xuyang Liu](https://xuyang-liu16.github.io/)! :sunglasses:
 
-I am currently a first-year Master's student at [Sichuan University](https://www.scu.edu.cn/), under the supervision of [Prof. Honggang Chen](https://sites.google.com/view/honggangchen/). Previously, I had the honor of visiting the [Visual Intelligence & Perception Lab (VIP Lab)](https://zhengfenglab.com/) at [SUSTech](https://www.sustech.edu.cn/en/), led by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&go=1&iscss=1&snapid=1&lang=en), and also gained valuable experience at the [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) at [Westlake University](https://www.westlake.edu.cn/), guided by [Siteng Huang](https://kyonhuang.top/).
+I am currently a first-year Master's student at [Sichuan University](https://www.scu.edu.cn/), under the supervision of [Prof. Honggang Chen](https://sites.google.com/view/honggangchen/). Previously, I had the honor of visiting the [Visual Intelligence & Perception Lab (VIP Lab)](https://zhengfenglab.com/) at [SUSTech](https://www.sustech.edu.cn/en/), led by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&go=1&iscss=1&snapid=1&lang=en), and also gained valuable experience at the [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) at [Westlake University](https://www.westlake.edu.cn/), guided by [Dr.Siteng Huang](https://kyonhuang.top/).
 
 :pushpin: My research interests focus on **Efficient Multi-modal Large Language Models**, including:
 
