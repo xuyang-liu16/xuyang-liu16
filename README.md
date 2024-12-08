@@ -9,4 +9,4 @@ My research interests span **Efficient Multi-modal Large Language Models**, incl
 
 📢 Recently, I am focusing on **[Acceleration of Generative Models](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)**. Feel free to reach out to me at `liuxuyang@stu.scu.edu.cn`, if you are interested in collaborating with me.
 
-
+[Xuyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyang-liu16&show=reviews,discussions_started,prs_merged)
