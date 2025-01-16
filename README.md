@@ -10,5 +10,5 @@ My research interests span **Efficient Multi-modal Large Language Models**, incl
 📢 Recently, I am focusing on **[Token Reduction for Model Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)**. Feel free to reach out to me at `liuxuyang@stu.scu.edu.cn`, if you are interested in collaborating with me.
 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=xuyang-liu16&theme=default&show_icons=true&count_private=true&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=xuyang-liu16&theme=vue-dark&show_icons=true&count_private=true&layout=compact)
 
