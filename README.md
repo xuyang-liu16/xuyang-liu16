@@ -11,7 +11,7 @@
 * **Efficient Inference**: [GlobalCom<sup>2</sup>](https://arxiv.org/abs/2501.05179), [FiCoCo](https://arxiv.org/abs/2411.17686), [ToCa](https://arxiv.org/abs/2410.05317), [Sparse-Tuning](https://arxiv.org/abs/2405.14700)
 * **Efficient Transfer**: [M2IST](https://arxiv.org/abs/2407.01131), [V-PETL Bench](https://openreview.net/forum?id=yS1dUkQFnu), [VGDiffZero](https://arxiv.org/abs/2309.01141), [DARA](https://arxiv.org/abs/2405.06217), [Sparse-Tuning](https://arxiv.org/abs/2405.14700), [AutoGnothi](https://arxiv.org/abs/2410.21815)
 
-📢 Recently, I am mainly focusing on **[Token Reduction for Model Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)**. Feel free to reach out to me via Email `liuxuyang@stu.scu.edu.cn`, if you are interested in collaborating with me. 🙋 **I’m actively seeking Ph.D. position in 2026 Fall!**
+📢 Recently, I am mainly focusing on **[Token-level Model Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)**. Feel free to reach out to me via Email `liuxuyang@stu.scu.edu.cn`, if you are interested in collaborating with me. 🙋 **I’m actively seeking Ph.D. position in 2026 Fall!**
 
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xuyang-liu16&theme=github_dark_dimmed&show_icons=true&count_private=true&layout=compact)
