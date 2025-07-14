@@ -1,4 +1,4 @@
-🌈 I am a second-year Master's student at [Sichuan University](https://en.scu.edu.cn/), supervised by Prof. [Honggang Chen](https://sites.google.com/view/honggangchen/). I am working as a research intern at [Ant Security Lab](https://securitylab.antgroup.com/home), part of Ant Group, focusing on GUI Agent. <!--Previously, I had the honor of visiting the [VIP Lab](https://zhengfenglab.com/) at [SUSTech](https://www.sustech.edu.cn/en/), supervised by Prof. [Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&go=1&iscss=1&snapid=1&lang=en).--> Previously, I completed an 8-month internship at [Taobao & Tmall Group](https://talent.taotian.com/), part of Alibaba Group, working on Efficient MLLM. I've also spent half a year visiting [MiLAB](https://milab.westlake.edu.cn/) at Westlake University, supervised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). I am very glad to be supervised and collaborated with Dr. [Siteng Huang](https://kyonhuang.top/) from DAMO Academy and Asst. Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/) from SJTU.
+🌈 I am a third-year Master's student at [Sichuan University](https://en.scu.edu.cn/). I am also working as a research intern at OPPO Research Institute, supervised by Prof. [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). Previously, I have interned at [Ant Security Lab](https://securitylab.antgroup.com/home) focusing on GUI Agent, and [Taobao & Tmall Group](https://talent.taotian.com/) working on Efficient MLLM. I've also spent half a year visiting [MiLAB](https://milab.westlake.edu.cn/) at Westlake University, supervised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). I am very glad to be supervised and collaborated with Dr. [Siteng Huang](https://kyonhuang.top/) from DAMO Academy and Asst. Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/) from SJTU.
 
 <!-- 📌 My research interests span **Efficient Multi-modal Large Language Models**, including:
 
@@ -12,7 +12,6 @@
 * **Efficient Training**: [M2IST](https://arxiv.org/abs/2407.01131), [V-PETL Bench](https://openreview.net/forum?id=yS1dUkQFnu), [DARA](https://arxiv.org/abs/2405.06217), [Dense-Tuning](https://arxiv.org/abs/2405.14700), [AutoGnothi](https://arxiv.org/abs/2410.21815)
 
 📢 Recently, I am mainly focusing on **[Token-level Model Compression](https://arxiv.org/abs/2505.19147)**, and applying it to efficient **high-resolution understanding and long video understanding**. Feel free to reach out to me via Email `liuxuyang@stu.scu.edu.cn`, if you are interested in collaborating with me.
-
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xuyang-liu16&theme=github_dark_dimmed&show_icons=true&count_private=true&layout=compact)
 
