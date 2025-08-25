@@ -6,3 +6,4 @@
 
 📢 Recently, I am mainly focusing on **[Token-level Model Compression](https://arxiv.org/abs/2505.19147)**, and applying it to efficient **long video understanding**. Feel free to reach out to me via Email `liuxuyang@stu.scu.edu.cn`, if you are interested in collaborating with me.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=xuyang-liu16&theme=github_dark_dimmed&show_icons=true&count_private=true&layout=compact)
