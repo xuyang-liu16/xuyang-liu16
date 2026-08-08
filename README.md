@@ -7,6 +7,6 @@
 - 🎨 **Content Generation**: lightweight and efficient AIGC via feature caching, pruning, and fast decoding, including [ToCa](https://arxiv.org/abs/2410.05317)<sub>[ICLR'25]</sub>, [Flash-Unified](https://arxiv.org/abs/2603.15271)<sub>[CVPR'26 Findings]</sub>, and [STDec](https://arxiv.org/abs/2604.06330).
 - ⚙️ **Efficiency Toolbox**: efficient transfer/fine-tuning and benchmarking for downstream task adaptation, including [M2IST](https://arxiv.org/abs/2407.01131)<sub>[TCSVT'25]</sub>, [V-PETL](https://openreview.net/forum?id=yS1dUkQFnu)<sub>[NeurIPS'24]</sub>, and [AutoGnothi](https://arxiv.org/abs/2410.21815)<sub>[ICLR'25]</sub>.
 
-📢 If you find these directions interesting, feel free to reach out via email: `liuxuyang@stu.scu.edu.cn`. Currently，I am actively seeking internship opportunities!
+📢 If you find these directions interesting, feel free to reach out via email: `liuxuyang@stu.scu.edu.cn`. I am actively seeking internship opportunities!
 
 
