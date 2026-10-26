@@ -3,3 +3,5 @@
 📌 I have published **20+** papers (**10+** as co-/first author). During my master's studies (2023-2026), my research focused on **Efficient AI**: making foundation model training and inference more efficient with minimal performance loss. Now, I focus on **Real-world Agent** research: enabling foundation models to solve a range of real-world problems effectively and efficiently.
 
 📢 Please email me at `xu-yang.liu@connect.polyu.hk` or `liuxuyang@stu.scu.edu.cn` for any form of academic collaboration.
+
+![Xuyang's GitHub stats](https://github-stats-extended.vercel.app/api?username=xuyang-liu16&show_icons=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=6e7781&ring_color=6e7781&border_color=d0d7de)
